@@ -1,0 +1,15 @@
+---
+game one:
+  exec: 1.test.py
+game two:
+  exec: 2.test.py
+game three:
+  exec: 3.test.py
+chat bot:
+  exec: chatbot.py
+GL-0T|CH:
+  exec: lix.py
+ProjectSun:
+  exec: uslx.py
+empty:
+  exec: null.py
