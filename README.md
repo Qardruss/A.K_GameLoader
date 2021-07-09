@@ -2,6 +2,10 @@
 ### THIS IS FOR LINUX ONLY
 >>> We would appreciate a pull request with a Windows version
 
+### THIS USES UNSAFE EXECUTION
+>>> A.K Game Loader uses unsafe execution to launch the 'games'
+>>> If you look in the main source file (Loader.py) you can find an unsafe `os.system("./" + executable)`
+
 
 A.K Game Loader is a simple and open-source game loader
 
