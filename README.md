@@ -1,6 +1,10 @@
 # A.K Game Loader
+### THIS IS FOR LINUX ONLY
+>>> We would appreciate a pull request with a Windows version
+
 
 A.K Game Loader is a simple and open-source game loader
+
 
 > A.K
 
