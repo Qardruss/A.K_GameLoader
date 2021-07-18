@@ -1,4 +1,6 @@
----
+# Catalogue of files for the Game Loader
+# 
+
 game one:
   exec: 1.test.py
 game two:
@@ -8,8 +10,10 @@ game three:
 chat bot:
   exec: chatbot.py
 GL-0T|CH:
-  exec: lix.py
+  exec: lix.py # this is a rickroll btw
 ProjectSun:
   exec: uslx.py
 empty:
   exec: null.py
+self:
+  exec: Loader.py

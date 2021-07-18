@@ -7,7 +7,7 @@ import tkinter as tk
 
 def run_game(executable):
     def game_executor():
-        os.system("./" + executable)
+        os.system("py " + executable)
 
     return game_executor
 
@@ -21,7 +21,7 @@ def game_loader():
     row_no = 0
     for game_name in cat:
         btn = tk.Button(window, text=game_name, bg="blue", command=run_game(cat[game_name]['exec']))
-        btn.grid(column=0, row=row_no)
+        btn.grid(column=1, row=row_no)
         row_no += 1
 
     window.mainloop()
