@@ -27,7 +27,7 @@ chat = {
 	"sorry":	"I like you now",
 	"cuc":		["Excuse me?", "Excuse me, but, what???"],
 	"beautiful":	"Who are you kidding?",
-	"donut":	["Are you looking for Arkadii?", "Are you looking for Andrei?"],
+	"donut":	["Are you looking for *******?", "Are you looking for *****?"],
 	"park":		["No, I am too tired","It's too cold outside!"],
 	"funkin":	["Let's get funkin on this lazy night!", "Music Beats!", "Let's get Funkin on a Friday Night"],
 	"lazy":		"You're being lazy! Get up!",
